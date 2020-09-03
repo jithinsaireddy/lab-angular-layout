@@ -1,0 +1,9 @@
+.head {
+  background: orangered;
+  height: 60px;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: left;
+  padding-left: 20px;
+}
